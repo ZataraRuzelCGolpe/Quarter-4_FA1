@@ -1,0 +1,15 @@
+header {
+  font-style: bold;
+  background-color: lightgreen;
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+div {
+  border:1px dashed;
+  padding: 10px;
+}
+
+#charity {
+  background-color: lightblue;
+}
